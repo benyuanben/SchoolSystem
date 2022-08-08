@@ -1,0 +1,3 @@
+Practicing OOP by creating a design for school class enrollment system...
+Has a GUI to go along with it
+(consider making a database for it?)
